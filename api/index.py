@@ -12,7 +12,7 @@ API_KEYS = {
         "user": "@Akash_Exploits_bot",
         "expires": "2050-12-31",
         "requests": 0,
-        "limit": 1000000
+        "limit": 100000000000
     }
 }
 
