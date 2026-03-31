@@ -55,7 +55,7 @@ def get_mobile_info():
                 "remaining_requests": key_info["limit"] - key_info["requests"],
                 "user": key_info["user"]
             },
-            "owner": "https://t.me/cyber_apis",
+            "owner": "https://t.me/cyber_apis \\n BUUY INSTANT CHEAP PRICE",
             "developer": "@Akash_Exploits_bot",
             "status": "success",
             "search_count": result_data.get("count", 0),
